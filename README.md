@@ -1,5 +1,5 @@
 # 06_exaples_from_teaching
-Node.js basics and Express.js basics examples from teachings the 11 og March.
+Node.js basics and Express.js basics examples from teachings the 11 of March.
 
 ## Instalation
 
