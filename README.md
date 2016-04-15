@@ -1,7 +1,7 @@
-# 06_exaples_from_teaching
+# 06_examples_from_teaching
 Node.js basics and Express.js basics examples from teachings the 11 of March.
 
-## Instalation
+## Installation
 
 <pre>git clone https://github.com/keanodejs/06_exaples_from_teaching.git</pre>
 
